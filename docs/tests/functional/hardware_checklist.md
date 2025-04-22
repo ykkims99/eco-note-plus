@@ -1,0 +1,4 @@
+- [x] Boot success
+- [x] AI model loaded
+- [x] Inference executed
+- [x] Power < 4W
