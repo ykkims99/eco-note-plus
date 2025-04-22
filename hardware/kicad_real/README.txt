@@ -1,0 +1,1 @@
+Open 'eco_note_real_project.kicad_pro' with KiCad 6+ to view the full schematic including power, GPIO, and interfaces.

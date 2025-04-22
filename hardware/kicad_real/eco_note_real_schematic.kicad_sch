@@ -1,0 +1,19 @@
+(kicad_sch (version 20211014) (generator kicad))
+(schematic
+  (title_block (title "Eco-Note+ Schematic") (company "Y.K. Kim") (rev "v1.1"))
+
+  (symbol (lib_id "Connector_USB:USB_C_Receptacle_USB2.0") (at 10 10) (unit 1))
+  (symbol (lib_id "Device:D_Small") (at 20 10) (unit 1))
+  (symbol (lib_id "Device:Q_PMOS_GSD") (at 30 10) (unit 1))
+  (symbol (lib_id "Device:C") (at 40 10) (unit 1))
+  (symbol (lib_id "Device:LED") (at 50 10) (unit 1))
+  (symbol (lib_id "Device:R") (at 60 10) (unit 1))
+
+  (symbol (lib_id "Connector_Generic:Conn_02x20_Odd_Even") (at 10 40) (unit 1))
+  (symbol (lib_id "Device:R") (at 20 40) (unit 1))
+  (symbol (lib_id "Device:LED") (at 30 40) (unit 1))
+
+  (symbol (lib_id "Connector_Generic:Conn_01x04") (at 10 70) (unit 1))
+  (symbol (lib_id "Connector_Generic:Conn_01x04") (at 30 70) (unit 1))
+  (symbol (lib_id "Connector_Generic:Conn_01x04") (at 50 70) (unit 1))
+)
