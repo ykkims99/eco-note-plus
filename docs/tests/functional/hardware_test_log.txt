@@ -1,0 +1,11 @@
+EcoNote+ Functional Hardware Test Log
+
+1. Power button pressed: ✅
+2. USB keyboard detection: ✅
+3. USB mouse detection: ✅
+4. HDMI output verified: ✅
+5. GPIO LED blink check: ✅ (1Hz blink OK)
+6. Wi-Fi connectivity: ✅ Connected to test-AP
+7. AI inference test: ✅ ESRGAN test image enhanced
+8. System shutdown test: ✅ Clean shutdown via UI
+Test completed: PASS
